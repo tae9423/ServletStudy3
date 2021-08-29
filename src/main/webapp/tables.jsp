@@ -49,26 +49,48 @@
 <table class="type3">
   <thead>
   <tr>
-    <th scope="cols">타이틀</th>
-    <th scope="cols">타이틀</th>
-    <th scope="cols">타이틀</th>
+    <th scope="cols">NO</th>
+    <th scope="cols">SUBJECT</th>
+    <th scope="cols">NAME</th>
+    <th scope="cols">DATE</th>
+    <th scope="cols">HIT</th>
   </tr>
   </thead>
   <tbody>
   <tr>
+    <td>1</th>
     <td>내용</th>
-    <td>내용</th>
-    <td>내용</th>
+    <td>관리자</th>
+    <td>21.08.28</th>
+    <td>555</th>
   </tr>
   <tr>
+    <td>2</th>
     <td>내용</th>
-    <td>내용</th>
-    <td>내용</th>
+    <td>관리자</th>
+    <td>21.08.28</th>
+    <td>95</th>
   </tr>
   <tr>
+    <td>3</th>
     <td>내용</th>
+    <td>관리자</th>
+    <td>21.08.28</th>
+    <td>22</th>
+  </tr>
+  <tr>
+    <td>4</th>
     <td>내용</th>
+    <td>관리자</th>
+    <td>21.08.28</th>
+    <td>35</th>
+  </tr>
+  <tr>
+    <td>5</th>
     <td>내용</th>
+    <td>관리자</th>
+    <td>21.08.28</th>
+    <td>44</th>
   </tr>
   </tbody>
 </table>
